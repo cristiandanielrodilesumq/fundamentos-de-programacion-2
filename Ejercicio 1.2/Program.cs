@@ -45,3 +45,13 @@ do
     }
     
 } while (EnteroValido != true);
+
+Console.WriteLine();
+Console.WriteLine("------------------------------------");
+Console.WriteLine();
+
+// 3) Genera un programa que muestre la tabla del 7 del 0 al 100 en forma ordenada.
+for (int i = 0; i <= 100; i++)
+{
+    Console.WriteLine("7 x " + i + " = " + (7 * i));
+}
