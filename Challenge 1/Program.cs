@@ -10,7 +10,7 @@
 //     turno a turno hasta que uno sea derrotado.
 
 // Reglas del juego:
-//   - Valida todas las entradas de datos que ingrese el usuario, pidiéndolas nuevamente
+//   - Válida todas las entradas de datos que ingrese el usuario, pidiéndolas nuevamente
 //     si son inválidas.
 //   - La vida nunca puede ser menor a 0 ni superar su valor máximo.
 //   - Si un personaje es derrotado, pierde la oportunidad de seguir atacando.
