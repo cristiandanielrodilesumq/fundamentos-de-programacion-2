@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Live Coding 1 - Escape del 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escape del Planeta 2.0", "Escape del Planeta 2.0\Escape del Planeta 2.0.csproj", "{78D34908-A994-4EC1-B44F-B7C73753D938}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arreglos y Listas", "Arreglos y Listas\Arreglos y Listas.csproj", "{202C6A9F-F6F1-42B5-8C6C-09946F1EC2D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{78D34908-A994-4EC1-B44F-B7C73753D938}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78D34908-A994-4EC1-B44F-B7C73753D938}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78D34908-A994-4EC1-B44F-B7C73753D938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202C6A9F-F6F1-42B5-8C6C-09946F1EC2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202C6A9F-F6F1-42B5-8C6C-09946F1EC2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202C6A9F-F6F1-42B5-8C6C-09946F1EC2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202C6A9F-F6F1-42B5-8C6C-09946F1EC2D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
