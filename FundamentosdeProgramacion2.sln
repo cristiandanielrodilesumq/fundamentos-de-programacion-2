@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arreglos y Listas", "Arregl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diccionarios", "Diccionarios\Diccionarios.csproj", "{C1C0D265-4166-4CA7-98F2-7535E3DAC522}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea 2 - Arreglos y Listas", "Tarea 2 - Arreglos y Listas\Tarea 2 - Arreglos y Listas.csproj", "{79E1D355-D00B-4BEB-AC03-40E81BDE5270}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{C1C0D265-4166-4CA7-98F2-7535E3DAC522}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1C0D265-4166-4CA7-98F2-7535E3DAC522}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1C0D265-4166-4CA7-98F2-7535E3DAC522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E1D355-D00B-4BEB-AC03-40E81BDE5270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E1D355-D00B-4BEB-AC03-40E81BDE5270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E1D355-D00B-4BEB-AC03-40E81BDE5270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E1D355-D00B-4BEB-AC03-40E81BDE5270}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
